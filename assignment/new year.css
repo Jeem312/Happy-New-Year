@@ -32,3 +32,74 @@ border-radius: 16px; margin: 50px 140px;}
             flex-shrink: 0;
             align-items: center;
             margin: 50px 390px;}
+           
+           /*section 3 style*/
+           .party-greeting{color: #FFF;
+            font-size: 64px;
+            font-weight: 900;padding: 50px;}
+            .party{background-image: url(../resources/Vectorrr.png);background-repeat: no-repeat; margin: 100px 100px 120px 100px;}
+                .invitation{color:  rgba(255, 255, 255, 0.80);
+                    font-size: 18px;
+                    font-weight: 400;flex-direction: column;padding: 50px;}
+        .small-button{color: #FFF;background-color: #F00; 
+            text-align: center;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 700;border: none;align-items: center;
+            flex-direction: column;border-radius: 10px;} .party{display: flex;} .extra{padding: 10px 0 10px 10px;}
+            /*section 4 style*/
+            .celebration{list-style: none; 
+                color: #070211;
+                text-align: center;
+                font-size: 25px;
+                font-weight: 600;
+            padding: 100px 385px 100px 385px;
+        background-color: bisque; margin: 100px 140px; border-radius: 40px;}
+    .celebration-detail{color: #F00;
+        text-align: center;
+        font-size: 25px;
+        font-weight: 600;}}
+    /*section 5 style*/
+    .image-r1{border-radius: 16px; gap: 25px; margin: 50px 100px 15px 100px;}
+    .image-r2{border-radius: 16px;gap: 25px;margin: 50px 100px 15px 100px;}
+
+
+    .gretting{color: #070211;
+        font-size: 48px;
+        font-weight: 400; margin: 15px 700px 15px 125px;}
+        .gift-tittle{color: #F00;
+            font-size: 20px; padding-bottom: 10px; text-align: center;} 
+            .sms{color: rgba(7, 2, 17, 0.60);
+                font-size: 20px;
+                font-weight: 400; margin-right: 20px;}
+            /*section 6*/
+        .email-icon{width: 150px;
+            height: 150px;
+            flex-shrink: 0; padding: 40px 550px;}  
+            .email{width: 1320px;
+                height: 616px;
+                flex-shrink: 0;
+                border-radius: 16px;
+                background-color: antiquewhite;margin: 100px 140px;}  
+                .button{width: 70px;
+                    height: 40px;
+                    flex-shrink: 0;
+                    border-radius: 0px 50px 50px 0px;
+                    background: #F00;border: none;}
+                    .smile{height: 35px;width: 70px;
+                        background: #FFF;width: 160px;50px
+                        height: 40px;
+                        flex-shrink: 0;border: none; padding-right: 10px;}
+                        .email-option{padding: 20px 500px;}
+                .short-sms{color: rgba(7, 2, 17, 0.60);
+                    text-align: center;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 400;}
+                    .new{padding: 40px 500px;}
+           .end{display: flex; justify-content: space-between;padding-left: 50px; padding-right: 100px;} .nothing{background-color: #070211;margin: 0;}
+           .color{color: #FFF;
+            font-size: 15px;
+            font-weight: 500;}  
+            .icon{padding: 50px 650px 150px 650px;}  
+            .last{display: flex;justify-content: space-between; padding-left: 50px;padding-right: 100px;}     
